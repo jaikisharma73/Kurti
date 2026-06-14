@@ -53,7 +53,7 @@ const BestSeller = () => {
                     <div className="max-w-2xl">
 
                         <p className="uppercase tracking-[4px] text-[11px] sm:text-xs text-neutral-500 mb-5">
-                            Most Wanted
+                            Most Wanted Product
                         </p>
 
                         <h2 className="text-4xl sm:text-5xl lg:text-7xl font-light tracking-tight leading-none text-black">
