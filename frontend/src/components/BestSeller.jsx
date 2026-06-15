@@ -68,7 +68,7 @@ const BestSeller = () => {
 
                         <p className="text-sm sm:text-base text-neutral-600 leading-relaxed">
                             Discover elevated essentials inspired by modern luxury fashion.
-                            Timeless silhouettes, premium fabrics, and statement pieces
+                            Timeless silhouettes, premium fabrics, And statement pieces
                             curated for everyday wear.
                         </p>
 
