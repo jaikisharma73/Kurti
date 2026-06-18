@@ -131,7 +131,7 @@ const BestSeller = () => {
                             transition-all duration-300
                         "
                     >
-                        View All Arrivals
+                        View All
                     </button>
 
                 </div>
