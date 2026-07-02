@@ -13,21 +13,15 @@ const Footer = () => {
 
         <h1
           className="
-            absolute
-            left-1/2
-            top-1/2
-            -translate-x-1/2
-            -translate-y-1/2
             uppercase
             whitespace-nowrap
             text-black/[0.035]
             leading-none
             select-none
-            text-[13vw]
+            text-[11vw]
           "
           style={{
             letterSpacing: '0.05em',
-            transform: 'translate(-50%, -50%)',
           }}
         >
           ZORRYFASH
