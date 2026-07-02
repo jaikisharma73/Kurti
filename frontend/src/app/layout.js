@@ -11,7 +11,7 @@ import Script from "next/script";
 
 export const metadata = {
   title: {
-    default: "ZorryFash | Premium Kurtis & Contemporary Fashion",
+    default: "ZorryFash | Premium & Luxury Fashion",
     template: "%s | ZorryFash"
   },
   description: "Explore designer ethnic wear, handpicked Kurtis, sarees, and modern fusion clothing at ZorryFash. High quality products with free shipping and cash on delivery.",
@@ -21,7 +21,7 @@ export const metadata = {
     locale: "en_IN",
     url: "https://zorryfash.com",
     siteName: "ZorryFash",
-    title: "ZorryFash | Premium Kurtis & Contemporary Fashion",
+    title: "ZorryFash | Premium & Luxury Fashion",
     description: "Shop designer ethnic wear, handpicked Kurtis, sarees, and modern fusion clothing at ZorryFash.",
   }
 };

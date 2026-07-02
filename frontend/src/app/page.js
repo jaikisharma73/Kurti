@@ -6,9 +6,9 @@ import LatestTransformations from '@/components/LatestTransformations'
 import BestSeller from '@/components/BestSeller'
 
 export const metadata = {
-  title: 'ZorryFash | Premium Kurtis & Contemporary Fashion E-Store',
-  description: 'Shop premium designer Kurtis, luxury fusion wear, handpicked ethnic sets, and modern streetwear collections with free shipping on ZorryFash.',
-  keywords: ['ZorryFash', 'Kurtis', 'Ethnic wear', 'Designer clothing', 'Luxury fashion', 'Indian wear', 'Women clothing'],
+  title: 'ZorryFash | Premium & Luxury Fashion',
+  description: 'Shop premium designer, luxury fusion wear, handpicked ethnic sets, and modern streetwear collections with free shipping on ZorryFash.',
+  keywords: ['ZorryFash', 'Ethnic wear', 'Designer clothing', 'Luxury fashion', 'Indian wear', 'Women clothing'],
 }
 
 export default function Home() {
