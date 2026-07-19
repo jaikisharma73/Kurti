@@ -298,7 +298,7 @@ const Edit = ({ token }) => {
         
         {sizes.length > 0 && (
           <div className='mt-4 flex flex-col gap-2'>
-            <p className='text-sm font-medium text-gray-600'>Set price for each size:</p>
+            <p className='text-sm font-medium text-gray-600'>Set price for each size :</p>
             <div className='flex flex-wrap gap-4'>
               {sizes.map((size) => (
                 <div key={size} className='flex items-center gap-2 bg-gray-50 border rounded px-3 py-2'>
