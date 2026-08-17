@@ -326,7 +326,7 @@ const Edit = ({ token }) => {
       </div>
 
       <div className='flex gap-3 mt-4'>
-        <button type="submit" className='w-28 py-3 bg-black text-white'>UPDATE</button>
+        <button type="submit" className='w-28 py-3 bg-black text-white'>Update</button>
         <button type="button" onClick={() => navigate('/list')} className='w-28 py-3 bg-gray-300 text-gray-700'>CANCEL</button>
       </div>
 
