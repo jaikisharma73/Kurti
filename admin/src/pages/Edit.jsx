@@ -196,7 +196,7 @@ const Edit = ({ token }) => {
       <div className='w-full'>
         <p className='mb-2 font-medium text-gray-700'>Product Images</p>
         <p className='text-sm text-gray-400 mb-3'>
-          Click any slot to upload/replace a picture and more. Click the red "×" button to clear a slot.
+          Click any slot to upload/replace a picture. Click the red "×" button to clear a slot.
         </p>
 
         <div className='flex flex-wrap gap-3'>
