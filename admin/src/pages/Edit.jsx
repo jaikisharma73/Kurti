@@ -188,7 +188,7 @@ const Edit = ({ token }) => {
     <form onSubmit={onSubmitHandler} className='flex flex-col w-full items-start gap-3'>
       <div className='flex items-center gap-2 mb-2'>
         <button type="button" onClick={() => navigate('/list')} className='px-4 py-2 bg-gray-200 text-gray-700 rounded hover:bg-gray-300 transition-colors'>
-          ← Back to Lis
+          ← Back to List
         </button>
         <p className='text-lg font-medium'>Edit Product</p>
       </div>
